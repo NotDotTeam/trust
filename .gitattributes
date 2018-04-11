@@ -1,0 +1,20 @@
+# GitHub stores files with 'eol=lf', and for Jekyll it is necessary that 
+#   encoding UTF-8 does not contain the BOM.
+# Parameter 'git config --global core.autocrlf true' will return the characters 
+#   \x0D\x0A only when updating a local repository and does not cut off the BOM.
+# Therefore when working on Windows in a local repository and transferring files 
+#   to a remote repository in *UTF-8 without the BOM* it is necessary to set 
+#   settings:
+# $ git config --global filter.win1251.clean "iconv -f windows-1251 -t utf-8"
+# $ git config --global filter.win1251.smudge "iconv -f utf-8 -t windows-1251"
+# $ git config --global filter.win1251.required true
+
+# To view the line-endings in files you can use the command 'git ls-files --eol'
+# It can be specified: 'w/crlf', 'w/lf', 'w/mixed'
+# Auto detect text files and perform CRLF normalization
+* text=auto eol=crlf
+
+# For the work in GitHub on Windows with transferring files to a remote 
+# repository in UTF-8 without BOM
+*.html filter=win1251
+*.md filter=win1251
