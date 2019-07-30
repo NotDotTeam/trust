@@ -58,7 +58,10 @@
 [Ukrainian](https://yaroslav-f.github.io/trust/),
 [Croatian](http://www.varljiv.org/evolucija-povjerenja/index.html),
 [Swedish](http://trust.alicedarner.se/),
-[Estonian](http://ncase.me/trust-et/)
+[Estonian](http://ncase.me/trust-et/),
+[Czech](https://nextghost.github.io/trust/),
+[Latvian](https://reversedfate.github.io/trust/),
+[Dutch](https://rayraz.github.io/trust/)
 
 # "LICENSE"
 
