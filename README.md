@@ -33,7 +33,6 @@
 **Шрифт:** [Pangolin](https://fonts.google.com/specimen/Pangolin) by Kevin Burke
 
 # Другие локализации
-
 [Japanese](https://htlife.github.io/trust_jp/),
 [Chinese (Simplified)](https://sekai.co/trust/),
 [Chinese (Taiwan)](https://audreyt.github.io/trust-zh-TW/),
@@ -41,7 +40,6 @@
 [French](https://ayowel.github.io/trust/),
 [Spain Spanish](https://ccamara.github.io/trust/),
 [Latin American Spanish](https://maeriens.github.io/trust/),
-[Russian](https://notdotteam.github.io/trust/),
 [German](https://jkoelling.github.io/trust/),
 [Italian](https://lvdt.github.io/trust/),
 [Turkish](https://osaatcioglu.github.io/trust),
@@ -64,6 +62,5 @@
 [Dutch](https://rayraz.github.io/trust/)
 
 # "LICENSE"
-
 [Creative Commons Zero](https://github.com/ncase/trust/blob/gh-pages/LICENSE): 
 исходный код ПО передан в общественное достояние, так что, в принципе, делай всё, что хочешь! Атрибуция супер ценна, но я не собираюсь отправлять жалобы на вас или чего-либо ещё.
